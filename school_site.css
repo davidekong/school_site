@@ -47,6 +47,7 @@ nav a{
 }
 
 .front-page-content {
+    height: 100vh;
     backdrop-filter: blur(4px);
     
 }
@@ -54,6 +55,7 @@ nav a{
 .front-page {
     background: linear-gradient(180deg, transparent, rgb(0, 0, 0)), url('idek 2.jpeg');
     background-size: cover;
+    height: 100vh;
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-blend-mode: inherit;
